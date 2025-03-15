@@ -93,13 +93,16 @@ endmodule
 
 ![xnor](https://github.com/user-attachments/assets/6f388caf-4523-46eb-bb38-cd236d57b4e9) 
 
-**RTL realization Output:** \n
-![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)\n
+**RTL realization Output:** 
+
+![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)
 
 **RTL**
+
 ![Screenshot (333)](https://github.com/user-attachments/assets/4ac6773f-9f1f-48db-9771-d5c1bfbd1943)
 
 **Result:**
+
 Thus the basic digital ICs and the verification of truth tables for different logic gates were studied and successfully realized using Verilog. 
 
 
