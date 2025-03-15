@@ -63,17 +63,37 @@ Y= A⊕B
 
 
 **PROGRAM**
-
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+module exp_1(a, b, y1, y2,y3,y4, y5, y6, y7);
+input a,b;
+output y1,y2,y3,y4, y5, y6, y7;
+and g1(y1,a,b);
+or g2(y2,a,b);
+not g3(y3,a);
+nand g4 (y4,a,b);
+nor g5(y5,a,b);
+xor g6(y6,a,b);
+xnor g7(y7,a,b);
+endmodule
  
 **Logic symbol & Truthtable**
+![and gate](https://github.com/user-attachments/assets/1407cd44-aa41-48e3-9fca-a5b2a2b8e530)
+![or gate](https://github.com/user-attachments/assets/e560829c-f582-4bfe-9205-17c1f27049a9)
+![not gate](https://github.com/user-attachments/assets/4c850b89-900b-405b-a9c2-fc7e335eb6b9)
+![nand](https://github.com/user-attachments/assets/ba5353b5-9798-4b91-854b-1c05b8d69540)
+![nor](https://github.com/user-attachments/assets/857270f6-1d8f-40c8-bf9f-1dc86988de94)
+![xor gate](https://github.com/user-attachments/assets/7269a82e-972b-4f6e-a236-73458bb3a836)
+![xnor](https://github.com/user-attachments/assets/6f388caf-4523-46eb-bb38-cd236d57b4e9)
 
 **RTL realization Output:** 
+![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)
 
 **RTL**
+![Screenshot (333)](https://github.com/user-attachments/assets/4ac6773f-9f1f-48db-9771-d5c1bfbd1943)
 
 **Result:**
+Thus the basic digital ICs and the verification of truth tables for different logic gates were studied and successfully realized using Verilog. 
+
 
 
