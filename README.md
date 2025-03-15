@@ -77,17 +77,17 @@ xor g6(y6,a,b);
 xnor g7(y7,a,b);
 endmodule
  
-**Logic symbol & Truthtable**
-![and gate](https://github.com/user-attachments/assets/1407cd44-aa41-48e3-9fca-a5b2a2b8e530)
-![or gate](https://github.com/user-attachments/assets/e560829c-f582-4bfe-9205-17c1f27049a9)
-![not gate](https://github.com/user-attachments/assets/4c850b89-900b-405b-a9c2-fc7e335eb6b9)
-![nand](https://github.com/user-attachments/assets/ba5353b5-9798-4b91-854b-1c05b8d69540)
-![nor](https://github.com/user-attachments/assets/857270f6-1d8f-40c8-bf9f-1dc86988de94)
-![xor gate](https://github.com/user-attachments/assets/7269a82e-972b-4f6e-a236-73458bb3a836)
-![xnor](https://github.com/user-attachments/assets/6f388caf-4523-46eb-bb38-cd236d57b4e9)
+**Logic symbol & Truthtable** \n
+![and gate](https://github.com/user-attachments/assets/1407cd44-aa41-48e3-9fca-a5b2a2b8e530) \n
+![or gate](https://github.com/user-attachments/assets/e560829c-f582-4bfe-9205-17c1f27049a9) \n
+![not gate](https://github.com/user-attachments/assets/4c850b89-900b-405b-a9c2-fc7e335eb6b9) \n
+![nand](https://github.com/user-attachments/assets/ba5353b5-9798-4b91-854b-1c05b8d69540) \n
+![nor](https://github.com/user-attachments/assets/857270f6-1d8f-40c8-bf9f-1dc86988de94) \n
+![xor gate](https://github.com/user-attachments/assets/7269a82e-972b-4f6e-a236-73458bb3a836) \n
+![xnor](https://github.com/user-attachments/assets/6f388caf-4523-46eb-bb38-cd236d57b4e9) \n
 
-**RTL realization Output:** 
-![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)
+**RTL realization Output:** \n
+![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)\n
 
 **RTL**
 ![Screenshot (333)](https://github.com/user-attachments/assets/4ac6773f-9f1f-48db-9771-d5c1bfbd1943)
