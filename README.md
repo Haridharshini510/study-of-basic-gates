@@ -87,10 +87,6 @@ endmodule
 
 ![nand](https://github.com/user-attachments/assets/ba5353b5-9798-4b91-854b-1c05b8d69540)
 
-
-
-
-
 ![nor](https://github.com/user-attachments/assets/857270f6-1d8f-40c8-bf9f-1dc86988de94) 
 
 ![xor gate](https://github.com/user-attachments/assets/7269a82e-972b-4f6e-a236-73458bb3a836) 
@@ -102,7 +98,6 @@ endmodule
 ![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)
 
 **RTL**
-
 ![Screenshot (333)](https://github.com/user-attachments/assets/4ac6773f-9f1f-48db-9771-d5c1bfbd1943)
 
 **Result:**
