@@ -107,11 +107,11 @@ endmodule
 ![xnor](https://github.com/user-attachments/assets/6f388caf-4523-46eb-bb38-cd236d57b4e9) 
 
 **RTL realization Output:** 
+![Screenshot (352)](https://github.com/user-attachments/assets/c36db4aa-7983-4ad5-98e0-06bf8006ab7d)
 
-![Screenshot (332)](https://github.com/user-attachments/assets/bb8a3c34-4b56-46fc-b5e5-93b2f015a353)
 
 **RTL**
-![Screenshot (333)](https://github.com/user-attachments/assets/4ac6773f-9f1f-48db-9771-d5c1bfbd1943)
+![Screenshot (353)](https://github.com/user-attachments/assets/111ab519-4371-42c9-94ff-6de68ada7c9a)
 
 **Result:**
 
