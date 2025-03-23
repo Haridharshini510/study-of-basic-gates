@@ -1,6 +1,7 @@
-**Name: Haridharshini J
+Name: Haridharshini J
 
-Register number: 212224040098**
+Register number: 212224040098
+
 ### Study-of-basic-gates
 
 **AIM:** 
